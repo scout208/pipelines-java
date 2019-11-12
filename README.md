@@ -1,3 +1,4 @@
+[![Build Status](https://monarcsport.visualstudio.com/Seeker/_apis/build/status/scout208.pipelines-java?branchName=master)](https://monarcsport.visualstudio.com/Seeker/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
